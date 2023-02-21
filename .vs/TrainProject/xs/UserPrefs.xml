@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{771941F3-298D-431B-B0D6-B25D519FD4F7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrainProjectAPI/Entities/ReservationRequest.cs">
+    <Files>
+      <File FileName="TrainProjectAPI/Entities/TrainReservationContext.cs" Line="19" Column="9" />
+      <File FileName="TrainProjectAPI/Controllers/ReservationController.cs" Line="29" Column="14" />
+      <File FileName="TrainProjectAPI/Repositories/Abstract/IReservationRepository.cs" Line="1" Column="1" />
+      <File FileName="TrainProjectAPI/Repositories/Concrete/ReservationRepository.cs" Line="1" Column="1" />
+      <File FileName="TrainProjectAPI/Entities/ReservationResponse.cs" Line="6" Column="34" />
+      <File FileName="TrainProjectAPI/Entities/PlacementDetail.cs" Line="12" Column="1" />
+      <File FileName="TrainProjectAPI/Repositories/ServiceRegistration.cs" Line="13" Column="32" />
+      <File FileName="TrainProjectAPI/Entities/Wagon.cs" Line="7" Column="22" />
+      <File FileName="TrainProjectAPI/Entities/ReservationRequest.cs" Line="8" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrainProject" expanded="True">
+            <Node name="TrainProjectAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="ReservationResponse.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concrete" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TrainProjectAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
